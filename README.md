@@ -46,7 +46,7 @@ In diesem Projekt werde ich einen coolen Numberguesser Spiel programmieren.
 | 9.1  |  Eine Frage (z. B. Versuchen sie die zufällige Zahl zu erraten.)  |   # Enter    |  Ihre Eingabe ist ungültig, geben sie eine Zahl ein.            |
 
 
-### 1.4 Diagramme
+### 1.4 Diagramme 
 
 <img width="934" alt="image" src="https://github.com/usernamen2334/LA.2_1300/assets/110892575/d0a118c7-127b-425e-8041-8d973fbcb7c0">
 
