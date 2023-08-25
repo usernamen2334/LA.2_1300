@@ -22,12 +22,12 @@ In diesem Projekt werde ich einen coolen Numberguesser Spiel programmieren.
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1  |   Muss              | Funktional     | Als ein User möchte ich die Möglichkeit erhalten, die Zufällig generierte Zahl zu erraten. |
 | 2  |  Muss               | Funktional     | Als ein User möchte ich informiert werden, ob meine Zahl richtig oder falsch ist           |
-| 3  |  Muss               | Funktional     | Als ein User möchte ich informiert werden, ob die zufällig generierte Zahl höher oder tiefer als meine geratene Zahl ist.                                  |
-| 4  |  Muss               | Funktional     | Als ein User möchte ich eine Siegesnachricht erhalten, auf der ich sehen kann, wie viel Ratte versuche, ich gebraucht habe, sobald ich die Zahl erraten habe.                                  |
-| 5  |  Muss               | Funktional     | Als ein User möchte ich, sobald ich die Zahl erraten habe, eine Chance bekommen nochmals zu spielen oder auch nicht.                                  |
-| 6  |  Muss               | Funktional     | Als ein User möchte ich, dass falls ich mich entscheide nochmals zu spielen, eine neue Zahl generiert wird.                                   |
-| 7  |  Muss               | Funktional     | Als ein User möchte ich, dass falls ich mich entscheide nicht nochmals zu spielen, das sich das Programm asbchliesst.                                  |
-| 8  |  Muss               | Funktional     | Als ein User möchte ich, dass nach jedem Commit, den ich abgebe, die vorherigen Zeilen sich automatisch löschen.                                  |
+| 3  |  Muss               | Funktional     | Als ein User möchte ich informiert werden, ob die zufällig generierte Zahl höher oder tiefer als meine geratene Zahl ist.        |
+| 4  |  Muss               | Funktional     | Als ein User möchte ich eine Siegesnachricht erhalten, auf der ich sehen kann, wie viel Ratte versuche, ich gebraucht habe, sobald ich die Zahl erraten habe.  |
+| 5  |  Muss               | Funktional     | Als ein User möchte ich, sobald ich die Zahl erraten habe, eine Chance bekommen nochmals zu spielen oder auch nicht.       |
+| 6  |  Muss               | Funktional     | Als ein User möchte ich, dass falls ich mich entscheide nochmals zu spielen, eine neue Zahl generiert wird.       |
+| 7  |  Muss               | Funktional     | Als ein User möchte ich, dass falls ich mich entscheide nicht nochmals zu spielen, das sich das Programm asbchliesst.     |
+| 8  |  Muss               | Funktional     | Als ein User möchte ich, dass nach jedem Commit, den ich abgebe, die vorherigen Zeilen sich automatisch löschen.               |
 | 9  |  Muss               | Funktional     | Als ein User möchte ich, dass das Spiel mit Fehleingabe (wie Z. B. ein #, ! Usw. Eingebe) umgehen kann.                                  |
 
 
@@ -54,14 +54,18 @@ In diesem Projekt werde ich einen coolen Numberguesser Spiel programmieren.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 25.08.2023 |  Marku    |  Das Programm generiert eine Zahl 1-100  |    45'  |
+| 1.B  | 25.08.2023 |  Marku    |  Das Programm Gibt die die möglichkeit   |   45'  |
+| 2.A  | 25.08.2023 |  Marku    |  Das Programm prüft, ob die Eingabe vom Benutzer richtig/falsch ist           |   45'   |
+| 3.A  | 01.09.2023 |  Marku    |  Das Programm prüft ob die ZUfallszahl höher oder teifer als die eingegebene Zahl ist und gibt dies dem Benutzer auch aus.   |   45'     |
+| 4.A  | 01.09.2023 |  Marku    |              |   45'     |
+| 5.A  | 01.09.2023 |  Marku    |              |   45'     |
+| 6.A  | 01.09.2023 |  Marku    |              |   45'     |
+| 7.A  | 08.09.2023 |  Marku    |              |   45'     |
+| 8.A  | 08.09.2023 |  Marku    |              |   45'     |
+| 9.A  | 08.09.2023 |  Marku    |              |   45'     |
 
 Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden 
 
