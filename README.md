@@ -48,7 +48,7 @@ In diesem Projekt werde ich einen coolen Numberguesser Spiel programmieren.
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+<img width="934" alt="image" src="https://github.com/usernamen2334/LA.2_1300/assets/110892575/d0a118c7-127b-425e-8041-8d973fbcb7c0">
 
 ## 2 Planen
 
