@@ -35,15 +35,15 @@ In diesem Projekt werde ich einen coolen Numberguesser Spiel programmieren.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Programm ist offen.                        | F5 (um Programm zu starten) |  Versuchen sie die zufällige Zahl zu erraten.                  |
-| 2.1  | Zahl wurde eingegeben.                     | Enter             |   Ihre Zahl ist falsch/richtig.                |
-| 3.1  | Zahl wurde eingegeben und sie ist falsch.  | Enter       |   Ihre eingegebene Zahl ist zu tief/hoch.             |
-| 4.1  | Zahl wurde eingegeben und sie ist richtig. | Enter        |  Sie haben die Zahl in 8 versuchen erraten.             |
-| 5.1  | Siegesnachricht                            |   -      |   Möchten sie nochmals spielen?                 |
-| 6.1  | Siegesnachricht                            |  Ja       |   Versuchen Sie die zufällige Zahl zu erraten.                 |
-| 7.1  | Siegesnachricht                            |  Nein     |   -               |
-| 8.1  |  Eine Frage (z. B. Versuchen sie die zufällige Zahl zu erraten.)  |  Enter       |  Nur die neue Frage taucht auf.                |
-| 9.1  |  Eine Frage (z. B. Versuchen sie die zufällige Zahl zu erraten.)  |   # Enter    |  Ihre Eingabe ist ungültig, geben sie eine Zahl ein.            |
+| 1.1  | Programm ist offen.                                               | F5 (um Programm zu starten)  |  Versuchen sie die zufällige Zahl zu erraten.        |
+| 2.1  | Zahl wurde eingegeben.                                            | Enter                        |   Ihre Zahl ist falsch/richtig.                      |
+| 3.1  | Zahl wurde eingegeben und sie ist falsch.                         | Enter                        |   Ihre eingegebene Zahl ist zu tief/hoch.            |
+| 4.1  | Zahl wurde eingegeben und sie ist richtig.                        | Enter                        |  Sie haben die Zahl in 8 versuchen erraten.          |
+| 5.1  | Siegesnachricht                                                   |   -                          |   Möchten sie nochmals spielen?                      |
+| 6.1  | Siegesnachricht                                                   |  Ja                          |   Versuchen Sie die zufällige Zahl zu erraten.       |
+| 7.1  | Siegesnachricht                                                   |  Nein                        |   -                                                  |
+| 8.1  |  Eine Frage (z. B. Versuchen sie die zufällige Zahl zu erraten.)  |  Enter                       |  Nur die neue Frage taucht auf.                      |
+| 9.1  |  Eine Frage (z. B. Versuchen sie die zufällige Zahl zu erraten.)  |   # Enter                    |  Ihre Eingabe ist ungültig, geben sie eine Zahl ein. |
 
 
 ### 1.4 Diagramme 
@@ -56,9 +56,9 @@ In diesem Projekt werde ich einen coolen Numberguesser Spiel programmieren.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 25.08.2023 |  Marku    |  Das Programm generiert eine Zahl 1-100  |    45'  |
+| 1.A  | 25.08.2023 |  Marku    |  Das Programm generiert eine Zahl 1-100.  |    45'  |
 | 1.B  | 25.08.2023 |  Marku    |  Das Programm gibt dem Benutzer die Möglichkeit, eine Zahl einzugeben.   |   45'  |
-| 2.A  | 25.08.2023 |  Marku    |  Das Programm prüft, ob die Eingabe vom Benutzer richtig/falsch ist           |   45'   |
+| 2.A  | 25.08.2023 |  Marku    |  Das Programm prüft, ob die Eingabe vom Benutzer richtig/falsch ist.           |   45'   |
 | 3.A  | 01.09.2023 |  Marku    |  Das Programm prüft, ob die Zufallszahl höher oder teifer als die eingegebene Zahl ist und gibt dies dem Benutzer auch aus.   |   45'     |
 | 4.A  | 01.09.2023 |  Marku    |  Das Programm prüft, wie viele Versuche der Benutzer gebraucht hat und gibt dies in der Siegesnachricht aus.            |   45'     |
 | 5.A  | 01.09.2023 |  Marku    |  Das Programm fragt den Benutzer, ob er nochmals spielen möchte.           |   45'     |
