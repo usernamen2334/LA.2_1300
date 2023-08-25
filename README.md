@@ -48,7 +48,8 @@ In diesem Projekt werde ich einen coolen Numberguesser Spiel programmieren.
 
 ### 1.4 Diagramme 
 
-<img width="759" alt="image" src="https://github.com/usernamen2334/LA.2_1300/assets/110892575/2c46f133-4f98-4dfc-aa3c-e6fed6056268">
+<img width="693" alt="image" src="https://github.com/usernamen2334/LA.2_1300/assets/110892575/166b13e2-cb80-4ee9-90e9-5af9996b161c">
+
 
 
 ## 2 Planen
