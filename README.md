@@ -7,8 +7,9 @@ Erik Marku
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 18.08.2023 | 0.0.1   | Ich habe mich wieder in C# eingelebt und habe mir eine grobe Vorstellung von meinem Projekt verschafft und konnte somit mein Projekt planen. |
-| 25.08.2023 | 0.0.2   |                                                              |
-|       | 1.0.0   |                                                              |
+| 25.08.2023 | 0.0.2   | Ich habe weiter an meinem Projekt programmiert.                                                             |
+| 01.09.2023 | 0.0.3   |                                                              |
+|  | 1.0.0   |                                                              |
 
 ## 1 Informieren
 
