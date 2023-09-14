@@ -7,10 +7,9 @@ Erik Marku
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 18.08.2023 | 0.0.1   | Ich habe mich wieder in C# eingelebt und habe mir eine grobe Vorstellung von meinem Projekt verschafft und konnte somit mein Projekt planen. |
-| 25.08.2023 | 0.0.2   | Ich habe weiter an meinem Projekt programmiert.                                                             |
-| 01.09.2023 | 0.0.3   |                                                              |
-|  | 1.0.0   |                                                              |
-
+| 25.08.2023 | 0.0.2   | Ich habe angefangen, an meinem Projekt zu programmieren.                                                             |
+| 01.09.2023 | 0.0.3   | Ich habe das Realisieren fortgesetzt und habe mein Programm fast vollendet.                                                            |
+| 08.09.2023 | 1.0.0   | Ich habe die letzten Änderungen an meinem Programm vorgenommen und habe die Projektdoku fertiggestellt.                                                             |
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
@@ -72,24 +71,23 @@ Total: 9A = 9* 45' = 405 '
 
 ## 3 Entscheiden 
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich habe keine spezielle Entscheidung getroffen. Ich möchte mich einfach in die Welt des objektorientierten Programmierens einarbeiten und frei damit beginnen zu arbeiten.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 25.08.2023 |  Marku  |   45'   |                   |
-| 1.B  | 25.08.2023 |  Marku  |   45'   |                   |
-| 2.A  | 25.08.2023 |  Marku  |   45'   |                   |
-| 3.A  | 01.09.2023 |  Marku  |   45'   |                   |
-| 4.A  | 01.09.2023 |  Marku  |   45'   |                   |
-| 5.A  | 01.09.2023 |  Marku  |   45'   |                   |
-| 6.A  | 01.09.2023 |  Marku  |   45'   |                   |
-| 7.A  | 08.09.2023 |  Marku  |   45'   |                   |
-| 8.A  | 08.09.2023 |  Marku  |   45'   |                   |
-| 9.A  | 08.09.2023 |  Marku  |   45'   |                   |
+| 1.A  | 25.08.2023 |  Marku  |   45'   |    10'               |
+| 1.B  | 25.08.2023 |  Marku  |   45'   |    10'              |
+| 2.A  | 25.08.2023 |  Marku  |   45'   |    80'               |
+| 3.A  | 01.09.2023 |  Marku  |   45'   |    60'              |
+| 4.A  | 01.09.2023 |  Marku  |   45'   |    90'               |
+| 5.A  | 01.09.2023 |  Marku  |   45'   |    40'               |
+| 6.A  | 01.09.2023 |  Marku  |   45'   |    30'               |
+| 7.A  | 08.09.2023 |  Marku  |   45'   |    45'               |
+| 8.A  | 08.09.2023 |  Marku  |   45'   |    45'               |
+| 9.A  | 08.09.2023 |  Marku  |   45'   |    45'              |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
