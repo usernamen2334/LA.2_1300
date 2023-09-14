@@ -40,8 +40,8 @@ In diesem Projekt werde ich einen coolen Numberguesser Spiel programmieren.
 | 3.1  | Zahl wurde eingegeben und sie ist falsch.                         | Enter                        |   Ihre eingegebene Zahl ist zu tief/hoch.            |
 | 4.1  | Zahl wurde eingegeben und sie ist richtig.                        | Enter                        |  Sie haben die Zahl in 8 versuchen erraten.          |
 | 5.1  | Siegesnachricht                                                   |   -                          |   Möchten sie nochmals spielen?                      |
-| 6.1  | Siegesnachricht                                                   |  Ja                          |   Versuchen Sie die zufällige Zahl zu erraten.       |
-| 7.1  | Siegesnachricht                                                   |  Nein                        |   -                                                  |
+| 6.1  | Siegesnachricht und Frage Möchten Sie nochmals spielen?                                                  |  Ja                          |   Versuchen Sie die zufällige Zahl zu erraten.       |
+| 7.1  | Siegesnachricht und Frage Möchten Sie nochmals spielen?                                                  |  Nein                        |   -                                                  |
 | 8.1  |  Eine Frage (z. B. Versuchen sie die zufällige Zahl zu erraten.)  |  Enter                       |  Nur die neue Frage taucht auf.                      |
 | 9.1  |  Eine Frage (z. B. Versuchen sie die zufällige Zahl zu erraten.)  |   # Enter                    |  Ihre Eingabe ist ungültig, geben sie eine Zahl ein. |
 
@@ -95,19 +95,19 @@ Ich habe keine spezielle Entscheidung getroffen. Ich möchte mich einfach in die
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 08.09.2023      |  O.K.       |  Erik Marku      |
+| 2.1  | 08.09.2023      |  O.K.        |  Erik Marku       |
+| 3.1  | 08.09.2023      |  O.K.         | Erik Marku        |
+| 4.1  | 08.09.2023      |   O.K.       |  Erik Marku       |
+| 5.1  | 08.09.2023      |  O.K.        | Erik Marku        |
+| 6.1  | 08.09.2023      |  O.K.        |  Erik Marku       |
+| 7.1  | 08.09.2023      |  O.K.        |  Erik Marku       |
+| 8.1  | 08.09.2023      |  O.K.        | Erik Marku        |
+| 9.1  | 08.09.2023      | O.K.         |  Erik Marku       |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
+Beim Testen bemerkte ich, dass mein Programm ein Problem hatte: Es stürzte am Anfang ab, wenn man nicht 'j' oder 'n' eingab. Allerdings habe ich dieses Problem direkt behoben, und danach verlief das Testen reibungslos.
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
