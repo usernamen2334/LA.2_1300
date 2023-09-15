@@ -37,7 +37,8 @@ In diesem Projekt werde ich einen coolen Numberguesser Spiel programmieren.
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Programm ist offen.                                               | F5 (um Programm zu starten)  |  Versuchen sie die zufällige Zahl zu erraten.        |
 | 2.1  | Zahl wurde eingegeben.                                            | Enter                        |   Ihre Zahl ist falsch/richtig.                      |
-| 3.1  | Zahl wurde eingegeben und sie ist falsch.                         | Enter                        |   Ihre eingegebene Zahl ist zu tief/hoch.            |
+| 3.1  | Zahl wurde eingegeben und sie ist falsch (zu tief).                         | Enter                        |   Ihre eingegebene Zahl ist zu tief.            |
+| 3.2  | Zahl wurde eingegeben und sie ist falsch (zu hoch).                         | Enter                        |   Ihre eingegebene Zahl ist zu hoch.            |
 | 4.1  | Zahl wurde eingegeben und sie ist richtig.                        | Enter                        |  Sie haben die Zahl in 8 versuchen erraten.          |
 | 5.1  | Siegesnachricht                                                   |   -                          |   Möchten sie nochmals spielen?                      |
 | 6.1  | Siegesnachricht und Frage, möchten Sie nochmals spielen?                                                  |  Ja                          |   Versuchen Sie die zufällige Zahl zu erraten.       |
