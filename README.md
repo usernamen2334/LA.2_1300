@@ -23,7 +23,7 @@ In diesem Projekt werde ich einen coolen Numberguesser Spiel programmieren.
 | 1  |   Muss              | Funktional     | Als ein User möchte ich die Möglichkeit erhalten, die Zufällig generierte Zahl zu erraten. |
 | 2  |  Muss               | Funktional     | Als ein User möchte ich informiert werden, ob meine Zahl richtig oder falsch ist           |
 | 3  |  Muss               | Funktional     | Als ein User möchte ich informiert werden, ob die zufällig generierte Zahl höher oder tiefer als meine geratene Zahl ist.        |
-| 4  |  Muss               | Funktional     | Als ein User möchte ich eine Siegesnachricht erhalten, auf der ich sehen kann, wie viel Ratte versuche, ich gebraucht habe, sobald ich die Zahl erraten habe.  |
+| 4  |  Muss               | Funktional     | Als ein User möchte ich eine Siegesnachricht erhalten, auf der ich sehen kann, wie viel Rateversuche, ich gebraucht habe, sobald ich die Zahl erraten habe.  |
 | 5  |  Muss               | Funktional     | Als ein User möchte ich, sobald ich die Zahl erraten habe, eine Chance bekommen nochmals zu spielen oder auch nicht.       |
 | 6  |  Muss               | Funktional     | Als ein User möchte ich, dass falls ich mich entscheide nochmals zu spielen, eine neue Zahl generiert wird.       |
 | 7  |  Muss               | Funktional     | Als ein User möchte ich, dass falls ich mich entscheide nicht nochmals zu spielen, dass sich das Programm abschliesst.     |
