@@ -109,5 +109,5 @@ Beim Testen bemerkte ich, dass mein Programm ein Problem hatte: Es stürzte am A
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+Mein Portfolioeintrag befindet sich hier: https://portfolio.bbbaden.ch/view/view.php?t=71f603d133d0392ed0da
 
