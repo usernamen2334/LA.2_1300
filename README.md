@@ -77,15 +77,15 @@ Ich habe keine spezielle Entscheidung getroffen. Ich möchte mich einfach in die
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  | 25.08.2023 |  Marku  |   45'   |    10'               |
-| 1.B  | 25.08.2023 |  Marku  |   45'   |    10'              |
+| 1.B  | 25.08.2023 |  Marku  |   45'   |    10'               |
 | 2.A  | 25.08.2023 |  Marku  |   45'   |    80'               |
-| 3.A  | 01.09.2023 |  Marku  |   45'   |    60'              |
+| 3.A  | 01.09.2023 |  Marku  |   45'   |    60'               |
 | 4.A  | 01.09.2023 |  Marku  |   45'   |    90'               |
 | 5.A  | 01.09.2023 |  Marku  |   45'   |    40'               |
 | 6.A  | 01.09.2023 |  Marku  |   45'   |    30'               |
 | 7.A  | 08.09.2023 |  Marku  |   45'   |    45'               |
 | 8.A  | 08.09.2023 |  Marku  |   45'   |    45'               |
-| 9.A  | 08.09.2023 |  Marku  |   45'   |    45'              |
+| 9.A  | 08.09.2023 |  Marku  |   45'   |    45'               |
 
 
 ## 5 Kontrollieren
@@ -94,15 +94,16 @@ Ich habe keine spezielle Entscheidung getroffen. Ich möchte mich einfach in die
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  | 08.09.2023      |  O.K.       |  Erik Marku      |
-| 2.1  | 08.09.2023      |  O.K.        |  Erik Marku       |
-| 3.1  | 08.09.2023      |  O.K.         | Erik Marku        |
-| 4.1  | 08.09.2023      |   O.K.       |  Erik Marku       |
-| 5.1  | 08.09.2023      |  O.K.        | Erik Marku        |
-| 6.1  | 08.09.2023      |  O.K.        |  Erik Marku       |
-| 7.1  | 08.09.2023      |  O.K.        |  Erik Marku       |
-| 8.1  | 08.09.2023      |  O.K.        | Erik Marku        |
-| 9.1  | 08.09.2023      | O.K.         |  Erik Marku       |
+| 1.1  | 08.09.2023      |  O.K.       |  Erik Marku       |
+| 2.1  | 08.09.2023      |  O.K.       |  Erik Marku       |
+| 3.1  | 08.09.2023      |  O.K.       | Erik Marku        |
+| 3.2  | 08.09.2023      |  O.K.       | Erik Marku        |
+| 4.1  | 08.09.2023      |   O.K.      |  Erik Marku       |
+| 5.1  | 08.09.2023      |  O.K.       | Erik Marku        |
+| 6.1  | 08.09.2023      |  O.K.       |  Erik Marku       |
+| 7.1  | 08.09.2023      |  O.K.       |  Erik Marku       |
+| 8.1  | 08.09.2023      |  O.K.       | Erik Marku        |
+| 9.1  | 08.09.2023      | O.K.        |  Erik Marku       |
 
 
 Beim Testen bemerkte ich, dass mein Programm ein Problem hatte: Es stürzte am Anfang ab, wenn man nicht 'j' oder 'n' eingab. Allerdings habe ich dieses Problem direkt behoben, und danach verlief das Testen reibungslos.
